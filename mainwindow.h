@@ -8,6 +8,7 @@
 #include <QList>
 #include <QRegExp>
 #include <qmath.h>
+
 namespace Ui {
 class MainWindow;
 }
